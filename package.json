@@ -1,0 +1,22 @@
+{
+  "name": "resultviewerserver",
+  "version": "1.0.0",
+  "description": "NodeJS App for reading files from local files system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsc-isenbuettel/ResultViewerServer.git"
+  },
+  "author": "Andre Peschyras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsc-isenbuettel/ResultViewerServer/issues"
+  },
+  "homepage": "https://github.com/bsc-isenbuettel/ResultViewerServer#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
