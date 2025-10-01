@@ -1,9 +1,33 @@
+require('dotenv').config();
 const fs = require('fs');
 const path = require('path')
+const express = require('express')
+const app = express()
 
-const jsonsInDir = fs.readdirSync('./sw_lbi/categories').filter(file => path.extname(file) === '.json');
+const port = 1337
+const localDir = process.env.LOCAL_DIR || './src/raw';
 
-jsonsInDir.forEach(file => {
-  const fileData = fs.readFileSync(path.join('./sw_lbi/categories', file));
-  const json = JSON.parse(fileData.toString());
-});
+const readFiles = () => {
+    const data = [];
+    const aFiles = fs.readdirSync(localDir).filter(file => path.extname(file) === '.json');
+
+    //Load each file content to memory
+    aFiles.forEach(file => {
+        const content = fs.readFileSync(path.join(localDir, file));
+        console.log(`Loading file: ${file}`);
+        const json = JSON.parse(content.toString());
+        data.push({
+            name: file,
+            content: json
+        });
+    });
+    return data;    
+  }
+
+app.get('/', (req, res) => {
+  res.send(readFiles())
+})
+
+app.listen(port, () => {
+  console.log(`ResultViewerServer listening on port ${port}`)
+})
