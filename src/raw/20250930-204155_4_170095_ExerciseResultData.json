@@ -1,1 +1,1360 @@
-{"LastShot":{"Id":"2597070e-7508-934d-15d8-34a0fa4af401","TimeStamp":"2025-09-30T20:41:31.919+02:00","Demo":true,"Scores":["9!","3.64"],"ShotNumber":20,"DirectionArrow":"→","XCoordinateInM":0.003627948,"YCoordinateInM":-0.000237982,"RadiusInM":0.0036357450574851916,"PhiInRad":6.217682290829039,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":9.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":3.63574505748519,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:31.9190000"},"Totals":[131.0,193.946048466342],"DisplayTotalStrings":["131","193.95"],"Practices":[{"PracticeName":"","Groups":[{"Shots":[{"Id":"c88c794b-472a-43b7-50c2-0c04edaea788","TimeStamp":"2025-09-30T20:41:02.072+02:00","Demo":true,"Scores":["5!","14.29"],"ShotNumber":1,"DirectionArrow":"↗","XCoordinateInM":0.012570784,"YCoordinateInM":0.006792394,"RadiusInM":0.014288499803194596,"PhiInRad":0.4953900971975273,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":5.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":14.2884998031946,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:02.0720000"},{"Id":"3a17874a-cc5d-df1c-8dc1-7a6e8ba43757","TimeStamp":"2025-09-30T20:41:04.1+02:00","Demo":true,"Scores":["5!","13.29"],"ShotNumber":2,"DirectionArrow":"←","XCoordinateInM":-0.013059339,"YCoordinateInM":0.002442873,"RadiusInM":0.013285855772627144,"PhiInRad":2.9566703084921513,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":5.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":13.2858557726271,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:04.1000000"},{"Id":"4281075d-9124-cfb3-666b-0232e0ee627f","TimeStamp":"2025-09-30T20:41:05.336+02:00","Demo":true,"Scores":["9!","4.21"],"ShotNumber":3,"DirectionArrow":"↙","XCoordinateInM":-0.001848822,"YCoordinateInM":-0.003783159,"RadiusInM":0.004210752285158199,"PhiInRad":4.25782383309746,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":9.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":4.2107522851582,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:05.3360000"},{"Id":"73aba8de-1b9d-8881-fc40-6c2883b92b63","TimeStamp":"2025-09-30T20:41:06.449+02:00","Demo":true,"Scores":["4!","17.23"],"ShotNumber":4,"DirectionArrow":"↘","XCoordinateInM":0.013180823,"YCoordinateInM":-0.011099328,"RadiusInM":0.01723163303372356,"PhiInRad":5.583306305812879,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":4.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":17.2316330337236,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:06.4490000"},{"Id":"a7618a00-ab1a-a16b-5f33-08fa4dfe9c07","TimeStamp":"2025-09-30T20:41:07.441+02:00","Demo":true,"Scores":["9!","5.00"],"ShotNumber":5,"DirectionArrow":"↘","XCoordinateInM":0.002692479,"YCoordinateInM":-0.004207261,"RadiusInM":0.004995046374916053,"PhiInRad":5.281673836355792,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":9.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":4.99504637491605,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:07.4410000"},{"Id":"b543a4e4-8b6e-037f-a6cf-6e99ddd54659","TimeStamp":"2025-09-30T20:41:08.369+02:00","Demo":true,"Scores":["3!","18.53"],"ShotNumber":6,"DirectionArrow":"↑","XCoordinateInM":0.003578754,"YCoordinateInM":0.018180566,"RadiusInM":0.018529448461108385,"PhiInRad":1.3764362274761535,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":3.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":18.5294484611084,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:08.3690000"},{"Id":"d66a6be7-7279-02df-c1f0-15a66da33049","TimeStamp":"2025-09-30T20:41:16.799+02:00","Demo":true,"Scores":["9!","3.45"],"ShotNumber":7,"DirectionArrow":"←","XCoordinateInM":-0.003247785,"YCoordinateInM":0.001150915,"RadiusInM":0.003445680301979567,"PhiInRad":2.8010307586198016,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":9.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":3.44568030197957,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:16.7990000"},{"Id":"b7c53856-eb26-729e-3bcc-52958054c684","TimeStamp":"2025-09-30T20:41:17.504+02:00","Demo":true,"Scores":["9!","2.77"],"ShotNumber":8,"DirectionArrow":"←","XCoordinateInM":-0.002688827,"YCoordinateInM":0.000658413,"RadiusInM":0.0027682663012250103,"PhiInRad":2.9014480467904855,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":9.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":2.76826630122501,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:17.5040000"},{"Id":"c1150fc6-9a72-c854-75df-9ac74af500ea","TimeStamp":"2025-09-30T20:41:18.198+02:00","Demo":true,"Scores":["4!","15.60"],"ShotNumber":9,"DirectionArrow":"↑","XCoordinateInM":-0.001772291,"YCoordinateInM":0.015500978,"RadiusInM":0.015601965720548325,"PhiInRad":1.6846361357612105,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":4.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":15.6019657205483,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:18.1980000"},{"Id":"12aba21b-ebd4-7625-d845-9d12899d2524","TimeStamp":"2025-09-30T20:41:18.905+02:00","Demo":true,"Scores":["8!","6.34"],"ShotNumber":10,"DirectionArrow":"→","XCoordinateInM":0.006161998,"YCoordinateInM":0.001488715,"RadiusInM":0.00633928163936806,"PhiInRad":0.23705365315932117,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":8.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":6.33928163936806,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:18.9050000"},{"Id":"6b2b3774-9caf-87d0-95ef-46cd40a8b479","TimeStamp":"2025-09-30T20:41:19.317+02:00","Demo":true,"Scores":["4!","16.92"],"ShotNumber":11,"DirectionArrow":"↑","XCoordinateInM":-0.001824713,"YCoordinateInM":0.016824408,"RadiusInM":0.01692306952307509,"PhiInRad":1.678830351837038,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":4.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":16.9230695230751,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:19.3170000"},{"Id":"28cd2629-9a91-99fc-e952-d71e163be780","TimeStamp":"2025-09-30T20:41:20.125+02:00","Demo":true,"Scores":["9!","4.08"],"ShotNumber":12,"DirectionArrow":"↙","XCoordinateInM":-0.001741329,"YCoordinateInM":-0.003688041,"RadiusInM":0.004078464552245367,"PhiInRad":4.271264022893792,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":9.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":4.07846455224537,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:20.1250000"},{"Id":"4f211fbc-6e7b-22ef-22c4-dc96793a736c","TimeStamp":"2025-09-30T20:41:22.336+02:00","Demo":true,"Scores":["6!","10.09"],"ShotNumber":13,"DirectionArrow":"↓","XCoordinateInM":-0.002602222,"YCoordinateInM":-0.009743921,"RadiusInM":0.01008541302037378,"PhiInRad":4.451418402885814,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":6.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":10.0854130203738,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:22.3360000"},{"Id":"a27f0503-ba2f-7586-f5f1-d6d78ad1419f","TimeStamp":"2025-09-30T20:41:24.929+02:00","Demo":true,"Scores":["7!","8.39"],"ShotNumber":14,"DirectionArrow":"↘","XCoordinateInM":0.005966937,"YCoordinateInM":-0.00589299,"RadiusInM":0.00838639781444149,"PhiInRad":5.504022092932982,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":7.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":8.38639781444149,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:24.9290000"},{"Id":"de2d8806-7a63-ad78-da30-232554046cea","TimeStamp":"2025-09-30T20:41:26.736+02:00","Demo":true,"Scores":["6!","10.16"],"ShotNumber":15,"DirectionArrow":"↖","XCoordinateInM":-0.005854669,"YCoordinateInM":0.008307853,"RadiusInM":0.010163541241573726,"PhiInRad":2.1846797461918097,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":6.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":10.1635412415737,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:26.7360000"},{"Id":"c37c5657-aaf9-2374-22f9-22be995e6ae7","TimeStamp":"2025-09-30T20:41:27.664+02:00","Demo":true,"Scores":["7!","7.91"],"ShotNumber":16,"DirectionArrow":"↑","XCoordinateInM":0.00019635,"YCoordinateInM":0.007907666,"RadiusInM":0.007910103342564876,"PhiInRad":1.5459710923939973,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":7.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":7.91010334256488,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:27.6640000"},{"Id":"484fe689-d7f1-7558-d0cb-b8911f00b695","TimeStamp":"2025-09-30T20:41:28.867+02:00","Demo":true,"Scores":["4!","15.01"],"ShotNumber":17,"DirectionArrow":"↑","XCoordinateInM":-0.001221074,"YCoordinateInM":0.014961018,"RadiusInM":0.015010765513783764,"PhiInRad":1.652232861072991,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":4.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":15.0107655137838,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:28.8670000"},{"Id":"552ebba4-1bed-aeb3-d79c-c7c0cdfa54fd","TimeStamp":"2025-09-30T20:41:29.871+02:00","Demo":true,"Scores":["7!","7.61"],"ShotNumber":18,"DirectionArrow":"←","XCoordinateInM":-0.00709152,"YCoordinateInM":0.00276025,"RadiusInM":0.00760977239954652,"PhiInRad":2.7704029347281365,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":7.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":7.60977239954652,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:29.8710000"},{"Id":"37d7786f-ec33-6f50-a552-dbf984d2c211","TimeStamp":"2025-09-30T20:41:30.981+02:00","Demo":true,"Scores":["7!","9.45"],"ShotNumber":19,"DirectionArrow":"↘","XCoordinateInM":0.006125842,"YCoordinateInM":-0.007190794,"RadiusInM":0.009446346307403725,"PhiInRad":5.417985428831344,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":7.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":9.44634630740372,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:30.9810000"},{"Id":"2597070e-7508-934d-15d8-34a0fa4af401","TimeStamp":"2025-09-30T20:41:31.919+02:00","Demo":true,"Scores":["9!","3.64"],"ShotNumber":20,"DirectionArrow":"→","XCoordinateInM":0.003627948,"YCoordinateInM":-0.000237982,"RadiusInM":0.0036357450574851916,"PhiInRad":6.217682290829039,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":9.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":3.63574505748519,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:31.9190000"}],"Totals":[131.0,193.946048466342],"DisplayTotalStrings":["131","193.95"],"FireKind":1,"ShowIndex":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","ParameterResults":[{"Teilers":[0.0027682663012250103,0.003445680301979567,0.0036357450574851916],"ParameterResultType":"Bester Teiler","ResultValid":false,"ResultDataType":"Artemis.ComponentLibrary.Common.Models.ParameterResults.ParameterResultBestTeiler, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null","ProductVersion":"2025.2.1"}],"InfoLayerContributorMetaDataList":[]}],"Totals":[131.0,193.946048466342],"DisplayTotalStrings":["131","193.95"],"ParameterResults":[]}],"NrOfInnerTens":0,"ParameterResults":[{"Teilers":[0.0027682663012250103,0.003445680301979567,0.0036357450574851916],"ParameterResultType":"Bester Teiler","ResultValid":false,"ResultDataType":"Artemis.ComponentLibrary.Common.Models.ParameterResults.ParameterResultBestTeiler, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null","ProductVersion":"2025.2.1"}],"IsLegacy":false,"LegacyFirerInformation":{"FirerId":0,"DisplayName":null,"DisplayNation":null},"LegacyShootLogEventStartTime":"0001-01-01T01:00:00+01:00","Id":"6f5694cb-c176-4f0a-843e-c7449df03699","UserSessionInformation":{"SessionId":"b1fdf856-198f-454f-a927-ca777e231fcc","ShootingSportsCloudSession":false,"UserData":{"ShootingSportsCloudId":"00000000-0000-0000-0000-000000000000","MemberId":"170095","OrganizationId":"1ae6bbf1-c3a2-4b49-8731-cce3fab54b62","IsDefaultUser":false,"UserPreferredLanguage":"","UserDisplayId":"170095","Team":"","Name":"Rochlitz","FirstName":"Fabian","DisplayName":"ROCHLITZ Fabian","Club":"","Class":"","UserGroup":"Herrenzug","Organization":"BSC Isenbüttel von 1852 e.V.","OrganizationCode":"","OrganizationPicture":"12f5d642-657e-4bb6-b89d-a3c9a13e1b77","NationISO":"DEU","NationIOC":"GER","Age":null,"Gender":null,"GenderTranslated":null,"DateOfBirth":null,"DisplayNation":"GER"}},"Serial":3,"RangeId":"","RangeName":"","LanguageIdentifier":"de","TimeZone":"Europe/Berlin","ExerciseAssignmentId":"59ce04db-a7cd-42e6-86ce-1ba60c25b156","Suspendable":true,"ExerciseStart":"2025-09-30T20:41:02.072+02:00","Rank":0,"NrOfCompetitionShots":20,"ExerciseEmpty":false,"ExerciseProgress":"Finished","ExerciseSpecialEvents":[{"AdditionalShot":{"Id":"332bfbf7-1b79-9308-74b0-c55bbc7abd04","TimeStamp":"2025-09-30T20:41:38.79+02:00","Demo":true,"Scores":["8!","5.34"],"ShotNumber":-1,"DirectionArrow":"↗","XCoordinateInM":0.004697735,"YCoordinateInM":0.002541152,"RadiusInM":0.0053409893856222,"PhiInRad":0.4958540427399349,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":8.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":5.3409893856222,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:38.7900000"},"Id":"e2b4df0e-11ea-4cc6-b1e6-d88077fa0023","CreatedAt":"2025-09-30T20:41:38.9600291+02:00","Title":"i18n.ExerciseSpecialEvent.AdditionalShotRecorded","Description":"Additional shot after end of exercise detected!","ResultDataType":"Artemis.ComponentLibrary.Common.Models.ExerciseSpecialEvents.AdditionalShotRecordedEvent, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null","ProductVersion":"2025.2.1"},{"AdditionalShot":{"Id":"91b2a9f1-3330-52a2-5d61-2217616c0772","TimeStamp":"2025-09-30T20:41:46.132+02:00","Demo":true,"Scores":["4!","15.18"],"ShotNumber":-1,"DirectionArrow":"→","XCoordinateInM":0.015176849,"YCoordinateInM":0.000128976,"RadiusInM":0.015177397022459977,"PhiInRad":0.008498002139511652,"Visible":true,"CaliberInM":0.0045,"FiringDistanceInM":"NaN","Drawable":true,"VisualGroup":-1,"TargetIdent":61,"TargetPictureId":"d172e141-ddde-41cc-ad03-d7ea17491908","Position":"10m","FrameHit":false,"InnerTen":false,"Miss":false,"Velocity":700.0,"Ricochet":false,"SystemCreated":false,"FireKind":"ShotByShot","ScoreObjects":[{"ScoreMethodId":"ffcc12af-946a-417d-a022-8dc8f6e63224","Name":"10m Air Rifle Integer","ScoreFormat":"IntegerScore","StringValue":"","Value":4.0,"MaximumScore":10.0},{"ScoreMethodId":"608a7814-3162-4c4c-9292-3f7ee488bc09","Name":"Abstand vom Zentrum [mm]","ScoreFormat":"HundrethScore","StringValue":"","Value":15.17739702246,"MaximumScore":0.0}],"RunningTargetMovement":"StandingStill","RunningTargetSpeed":"Fast","InTime":true,"ElapsedTime":"45928.18:41:46.1320000"},"Id":"5b6ec43f-39d0-4312-b5ba-307ee2c133bf","CreatedAt":"2025-09-30T20:41:46.228154+02:00","Title":"i18n.ExerciseSpecialEvent.AdditionalShotRecorded","Description":"Additional shot after end of exercise detected!","ResultDataType":"Artemis.ComponentLibrary.Common.Models.ExerciseSpecialEvents.AdditionalShotRecordedEvent, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null","ProductVersion":"2025.2.1"}],"CurrentExerciseState":"IsFinished","FiringPoint":4,"ExerciseName":"Preisschiessen","TotalString":"131","FaceSelector":"LiveCompetitionResultsView","TimerViewData":{"State":0,"StartTime":"0001-01-01T01:00:00+01:00","TotalTimeInS":0},"FaceSpecificData":"{\"ScoreBoxLayout\":\"GroupCollectionExercise\",\"ScoreBoxData\":\"{\\u0022$type\\u0022:1,\\u0022GroupsProgress\\u0022:{\\u0022ActiveGroupIndex\\u0022:0,\\u0022Progress\\u0022:1,\\u0022Groups\\u0022:[\\u0022131\\u0022]},\\u0022GroupsTotalData\\u0022:[{\\u0022Index\\u0022:0,\\u0022Caption\\u0022:\\u0022Schuss f\\\\u00FCr Schuss: 20\\u0022,\\u0022CaptionAbbreviation\\u0022:\\u0022E20\\u0022,\\u0022Total\\u0022:\\u0022131\\u0022,\\u0022State\\u0022:\\u0022Finished\\u0022}],\\u0022ShotListDescriptor\\u0022:{\\u0022NumberOfPreferredShotsInShotList\\u0022:10,\\u0022AvailableScores\\u0022:[{\\u0022ValueName\\u0022:\\u002210m Air Rifle Integer\\u0022,\\u0022Alignment\\u0022:1,\\u0022ValueFormatterClass\\u0022:\\u0022ShotScoreFormatter\\u0022,\\u0022SelectionIndex\\u0022:0},{\\u0022ValueName\\u0022:\\u0022Abstand vom Zentrum [mm]\\u0022,\\u0022Alignment\\u0022:1,\\u0022ValueFormatterClass\\u0022:\\u0022ShotScoreFormatter\\u0022,\\u0022SelectionIndex\\u0022:1},{\\u0022ValueName\\u0022:\\u0022x/y[mm]\\u0022,\\u0022Alignment\\u0022:1,\\u0022ValueFormatterClass\\u0022:\\u0022ShotXYFormatterInMM\\u0022,\\u0022SelectionIndex\\u0022:0}],\\u0022PreferredOptionalColumnValueIndex\\u0022:-1}}\"}","WeaponId":"00000000-0000-0000-0000-000000000000","WeaponName":"","Comment":"","UserSpecificData":{"WeaponNumber":"","AmmunitionLot":""},"PreExerciseStepResults":{},"PostExerciseStepResults":{},"LastProcessedExerciseStepsList":"","LastProcessedExerciseStepsIndex":-1,"PrintStreamData":"Target 4                           Target 4                        C\n30.09.2025 20:41                   30.09.2025 20:41                C\n170095 ROCHLITZ Fabian GER         170095 ROCHLITZ Fabian GER      C\nPreisschiessen                     Preisschiessen                  C\n  1  ↗   5 !  14.29                  1  ↗   5 !  14.29             C\n  2  ←   5 !  13.29                  2  ←   5 !  13.29             C\n  3  ↙   9 !  4.21                   3  ↙   9 !  4.21              C\n  4  ↘   4 !  17.23                  4  ↘   4 !  17.23             C\n  5  ↘   9 !  5.00                   5  ↘   9 !  5.00              C\n  6  ↑   3 !  18.53                  6  ↑   3 !  18.53             C\n  7  ←   9 !  3.45                   7  ←   9 !  3.45              C\n  8  ←   9 !  2.77                   8  ←   9 !  2.77              C\n  9  ↑   4 !  15.60                  9  ↑   4 !  15.60             C\n 10  →   8 !  6.34                  10  →   8 !  6.34              C\n 11  ↑   4 !  16.92                 11  ↑   4 !  16.92             C\n 12  ↙   9 !  4.08                  12  ↙   9 !  4.08              C\n 13  ↓   6 !  10.09                 13  ↓   6 !  10.09             C\n 14  ↘   7 !  8.39                  14  ↘   7 !  8.39              C\n 15  ↖   6 !  10.16                 15  ↖   6 !  10.16             C\n 16  ↑   7 !  7.91                  16  ↑   7 !  7.91              C\n 17  ↑   4 !  15.01                 17  ↑   4 !  15.01             C\n 18  ←   7 !  7.61                  18  ←   7 !  7.61              C\n 19  ↘   7 !  9.45                  19  ↘   7 !  9.45              C\n 20  →   9 !  3.64                  20  →   9 !  3.64              C\nSubtotal:  131 193.95              Subtotal:  131 193.95           C\nTOTAL 131 193.95                   TOTAL 131 193.95                C\n\n\n\n\n\n\n\n\n\n\nIllegal Shot(8!)                   Illegal Shot(8!)                C\nIllegal Shot(4!)                   Illegal Shot(4!)                C\n","BackupDataString":"","ComponentDefinitionId":"eaea1ca6-17a8-8266-ea5a-445d47e8d302","ResultDataType":"Artemis.ComponentLibrary.Common.Models.ExerciseResults.ShootPracticeGroup.ShootPracticeGroupExerciseResultData, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null","ProductVersion":"2025.2.1"}
+{
+    "LastShot": {
+        "Id": "2597070e-7508-934d-15d8-34a0fa4af401",
+        "TimeStamp": "2025-09-30T20:41:31.919+02:00",
+        "Demo": true,
+        "Scores": [
+            "9!",
+            "3.64"
+        ],
+        "ShotNumber": 20,
+        "DirectionArrow": "→",
+        "XCoordinateInM": 0.003627948,
+        "YCoordinateInM": -0.000237982,
+        "RadiusInM": 0.0036357450574851916,
+        "PhiInRad": 6.217682290829039,
+        "Visible": true,
+        "CaliberInM": 0.0045,
+        "FiringDistanceInM": "NaN",
+        "Drawable": true,
+        "VisualGroup": -1,
+        "TargetIdent": 61,
+        "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+        "Position": "10m",
+        "FrameHit": false,
+        "InnerTen": false,
+        "Miss": false,
+        "Velocity": 700,
+        "Ricochet": false,
+        "SystemCreated": false,
+        "FireKind": "ShotByShot",
+        "ScoreObjects": [
+            {
+                "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                "Name": "10m Air Rifle Integer",
+                "ScoreFormat": "IntegerScore",
+                "StringValue": "",
+                "Value": 9,
+                "MaximumScore": 10
+            },
+            {
+                "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                "Name": "Abstand vom Zentrum [mm]",
+                "ScoreFormat": "HundrethScore",
+                "StringValue": "",
+                "Value": 3.63574505748519,
+                "MaximumScore": 0
+            }
+        ],
+        "RunningTargetMovement": "StandingStill",
+        "RunningTargetSpeed": "Fast",
+        "InTime": true,
+        "ElapsedTime": "45928.18:41:31.9190000"
+    },
+    "Totals": [
+        131,
+        193.946048466342
+    ],
+    "DisplayTotalStrings": [
+        "131",
+        "193.95"
+    ],
+    "Practices": [
+        {
+            "PracticeName": "",
+            "Groups": [
+                {
+                    "Shots": [
+                        {
+                            "Id": "c88c794b-472a-43b7-50c2-0c04edaea788",
+                            "TimeStamp": "2025-09-30T20:41:02.072+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "5!",
+                                "14.29"
+                            ],
+                            "ShotNumber": 1,
+                            "DirectionArrow": "↗",
+                            "XCoordinateInM": 0.012570784,
+                            "YCoordinateInM": 0.006792394,
+                            "RadiusInM": 0.014288499803194596,
+                            "PhiInRad": 0.4953900971975273,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 5,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 14.2884998031946,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:02.0720000"
+                        },
+                        {
+                            "Id": "3a17874a-cc5d-df1c-8dc1-7a6e8ba43757",
+                            "TimeStamp": "2025-09-30T20:41:04.1+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "5!",
+                                "13.29"
+                            ],
+                            "ShotNumber": 2,
+                            "DirectionArrow": "←",
+                            "XCoordinateInM": -0.013059339,
+                            "YCoordinateInM": 0.002442873,
+                            "RadiusInM": 0.013285855772627144,
+                            "PhiInRad": 2.9566703084921513,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 5,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 13.2858557726271,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:04.1000000"
+                        },
+                        {
+                            "Id": "4281075d-9124-cfb3-666b-0232e0ee627f",
+                            "TimeStamp": "2025-09-30T20:41:05.336+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "9!",
+                                "4.21"
+                            ],
+                            "ShotNumber": 3,
+                            "DirectionArrow": "↙",
+                            "XCoordinateInM": -0.001848822,
+                            "YCoordinateInM": -0.003783159,
+                            "RadiusInM": 0.004210752285158199,
+                            "PhiInRad": 4.25782383309746,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 9,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 4.2107522851582,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:05.3360000"
+                        },
+                        {
+                            "Id": "73aba8de-1b9d-8881-fc40-6c2883b92b63",
+                            "TimeStamp": "2025-09-30T20:41:06.449+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "4!",
+                                "17.23"
+                            ],
+                            "ShotNumber": 4,
+                            "DirectionArrow": "↘",
+                            "XCoordinateInM": 0.013180823,
+                            "YCoordinateInM": -0.011099328,
+                            "RadiusInM": 0.01723163303372356,
+                            "PhiInRad": 5.583306305812879,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 4,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 17.2316330337236,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:06.4490000"
+                        },
+                        {
+                            "Id": "a7618a00-ab1a-a16b-5f33-08fa4dfe9c07",
+                            "TimeStamp": "2025-09-30T20:41:07.441+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "9!",
+                                "5.00"
+                            ],
+                            "ShotNumber": 5,
+                            "DirectionArrow": "↘",
+                            "XCoordinateInM": 0.002692479,
+                            "YCoordinateInM": -0.004207261,
+                            "RadiusInM": 0.004995046374916053,
+                            "PhiInRad": 5.281673836355792,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 9,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 4.99504637491605,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:07.4410000"
+                        },
+                        {
+                            "Id": "b543a4e4-8b6e-037f-a6cf-6e99ddd54659",
+                            "TimeStamp": "2025-09-30T20:41:08.369+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "3!",
+                                "18.53"
+                            ],
+                            "ShotNumber": 6,
+                            "DirectionArrow": "↑",
+                            "XCoordinateInM": 0.003578754,
+                            "YCoordinateInM": 0.018180566,
+                            "RadiusInM": 0.018529448461108385,
+                            "PhiInRad": 1.3764362274761535,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 3,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 18.5294484611084,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:08.3690000"
+                        },
+                        {
+                            "Id": "d66a6be7-7279-02df-c1f0-15a66da33049",
+                            "TimeStamp": "2025-09-30T20:41:16.799+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "9!",
+                                "3.45"
+                            ],
+                            "ShotNumber": 7,
+                            "DirectionArrow": "←",
+                            "XCoordinateInM": -0.003247785,
+                            "YCoordinateInM": 0.001150915,
+                            "RadiusInM": 0.003445680301979567,
+                            "PhiInRad": 2.8010307586198016,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 9,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 3.44568030197957,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:16.7990000"
+                        },
+                        {
+                            "Id": "b7c53856-eb26-729e-3bcc-52958054c684",
+                            "TimeStamp": "2025-09-30T20:41:17.504+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "9!",
+                                "2.77"
+                            ],
+                            "ShotNumber": 8,
+                            "DirectionArrow": "←",
+                            "XCoordinateInM": -0.002688827,
+                            "YCoordinateInM": 0.000658413,
+                            "RadiusInM": 0.0027682663012250103,
+                            "PhiInRad": 2.9014480467904855,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 9,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 2.76826630122501,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:17.5040000"
+                        },
+                        {
+                            "Id": "c1150fc6-9a72-c854-75df-9ac74af500ea",
+                            "TimeStamp": "2025-09-30T20:41:18.198+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "4!",
+                                "15.60"
+                            ],
+                            "ShotNumber": 9,
+                            "DirectionArrow": "↑",
+                            "XCoordinateInM": -0.001772291,
+                            "YCoordinateInM": 0.015500978,
+                            "RadiusInM": 0.015601965720548325,
+                            "PhiInRad": 1.6846361357612105,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 4,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 15.6019657205483,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:18.1980000"
+                        },
+                        {
+                            "Id": "12aba21b-ebd4-7625-d845-9d12899d2524",
+                            "TimeStamp": "2025-09-30T20:41:18.905+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "8!",
+                                "6.34"
+                            ],
+                            "ShotNumber": 10,
+                            "DirectionArrow": "→",
+                            "XCoordinateInM": 0.006161998,
+                            "YCoordinateInM": 0.001488715,
+                            "RadiusInM": 0.00633928163936806,
+                            "PhiInRad": 0.23705365315932117,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 8,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 6.33928163936806,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:18.9050000"
+                        },
+                        {
+                            "Id": "6b2b3774-9caf-87d0-95ef-46cd40a8b479",
+                            "TimeStamp": "2025-09-30T20:41:19.317+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "4!",
+                                "16.92"
+                            ],
+                            "ShotNumber": 11,
+                            "DirectionArrow": "↑",
+                            "XCoordinateInM": -0.001824713,
+                            "YCoordinateInM": 0.016824408,
+                            "RadiusInM": 0.01692306952307509,
+                            "PhiInRad": 1.678830351837038,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 4,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 16.9230695230751,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:19.3170000"
+                        },
+                        {
+                            "Id": "28cd2629-9a91-99fc-e952-d71e163be780",
+                            "TimeStamp": "2025-09-30T20:41:20.125+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "9!",
+                                "4.08"
+                            ],
+                            "ShotNumber": 12,
+                            "DirectionArrow": "↙",
+                            "XCoordinateInM": -0.001741329,
+                            "YCoordinateInM": -0.003688041,
+                            "RadiusInM": 0.004078464552245367,
+                            "PhiInRad": 4.271264022893792,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 9,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 4.07846455224537,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:20.1250000"
+                        },
+                        {
+                            "Id": "4f211fbc-6e7b-22ef-22c4-dc96793a736c",
+                            "TimeStamp": "2025-09-30T20:41:22.336+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "6!",
+                                "10.09"
+                            ],
+                            "ShotNumber": 13,
+                            "DirectionArrow": "↓",
+                            "XCoordinateInM": -0.002602222,
+                            "YCoordinateInM": -0.009743921,
+                            "RadiusInM": 0.01008541302037378,
+                            "PhiInRad": 4.451418402885814,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 6,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 10.0854130203738,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:22.3360000"
+                        },
+                        {
+                            "Id": "a27f0503-ba2f-7586-f5f1-d6d78ad1419f",
+                            "TimeStamp": "2025-09-30T20:41:24.929+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "7!",
+                                "8.39"
+                            ],
+                            "ShotNumber": 14,
+                            "DirectionArrow": "↘",
+                            "XCoordinateInM": 0.005966937,
+                            "YCoordinateInM": -0.00589299,
+                            "RadiusInM": 0.00838639781444149,
+                            "PhiInRad": 5.504022092932982,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 7,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 8.38639781444149,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:24.9290000"
+                        },
+                        {
+                            "Id": "de2d8806-7a63-ad78-da30-232554046cea",
+                            "TimeStamp": "2025-09-30T20:41:26.736+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "6!",
+                                "10.16"
+                            ],
+                            "ShotNumber": 15,
+                            "DirectionArrow": "↖",
+                            "XCoordinateInM": -0.005854669,
+                            "YCoordinateInM": 0.008307853,
+                            "RadiusInM": 0.010163541241573726,
+                            "PhiInRad": 2.1846797461918097,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 6,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 10.1635412415737,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:26.7360000"
+                        },
+                        {
+                            "Id": "c37c5657-aaf9-2374-22f9-22be995e6ae7",
+                            "TimeStamp": "2025-09-30T20:41:27.664+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "7!",
+                                "7.91"
+                            ],
+                            "ShotNumber": 16,
+                            "DirectionArrow": "↑",
+                            "XCoordinateInM": 0.00019635,
+                            "YCoordinateInM": 0.007907666,
+                            "RadiusInM": 0.007910103342564876,
+                            "PhiInRad": 1.5459710923939973,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 7,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 7.91010334256488,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:27.6640000"
+                        },
+                        {
+                            "Id": "484fe689-d7f1-7558-d0cb-b8911f00b695",
+                            "TimeStamp": "2025-09-30T20:41:28.867+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "4!",
+                                "15.01"
+                            ],
+                            "ShotNumber": 17,
+                            "DirectionArrow": "↑",
+                            "XCoordinateInM": -0.001221074,
+                            "YCoordinateInM": 0.014961018,
+                            "RadiusInM": 0.015010765513783764,
+                            "PhiInRad": 1.652232861072991,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 4,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 15.0107655137838,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:28.8670000"
+                        },
+                        {
+                            "Id": "552ebba4-1bed-aeb3-d79c-c7c0cdfa54fd",
+                            "TimeStamp": "2025-09-30T20:41:29.871+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "7!",
+                                "7.61"
+                            ],
+                            "ShotNumber": 18,
+                            "DirectionArrow": "←",
+                            "XCoordinateInM": -0.00709152,
+                            "YCoordinateInM": 0.00276025,
+                            "RadiusInM": 0.00760977239954652,
+                            "PhiInRad": 2.7704029347281365,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 7,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 7.60977239954652,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:29.8710000"
+                        },
+                        {
+                            "Id": "37d7786f-ec33-6f50-a552-dbf984d2c211",
+                            "TimeStamp": "2025-09-30T20:41:30.981+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "7!",
+                                "9.45"
+                            ],
+                            "ShotNumber": 19,
+                            "DirectionArrow": "↘",
+                            "XCoordinateInM": 0.006125842,
+                            "YCoordinateInM": -0.007190794,
+                            "RadiusInM": 0.009446346307403725,
+                            "PhiInRad": 5.417985428831344,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 7,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 9.44634630740372,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:30.9810000"
+                        },
+                        {
+                            "Id": "2597070e-7508-934d-15d8-34a0fa4af401",
+                            "TimeStamp": "2025-09-30T20:41:31.919+02:00",
+                            "Demo": true,
+                            "Scores": [
+                                "9!",
+                                "3.64"
+                            ],
+                            "ShotNumber": 20,
+                            "DirectionArrow": "→",
+                            "XCoordinateInM": 0.003627948,
+                            "YCoordinateInM": -0.000237982,
+                            "RadiusInM": 0.0036357450574851916,
+                            "PhiInRad": 6.217682290829039,
+                            "Visible": true,
+                            "CaliberInM": 0.0045,
+                            "FiringDistanceInM": "NaN",
+                            "Drawable": true,
+                            "VisualGroup": -1,
+                            "TargetIdent": 61,
+                            "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                            "Position": "10m",
+                            "FrameHit": false,
+                            "InnerTen": false,
+                            "Miss": false,
+                            "Velocity": 700,
+                            "Ricochet": false,
+                            "SystemCreated": false,
+                            "FireKind": "ShotByShot",
+                            "ScoreObjects": [
+                                {
+                                    "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                                    "Name": "10m Air Rifle Integer",
+                                    "ScoreFormat": "IntegerScore",
+                                    "StringValue": "",
+                                    "Value": 9,
+                                    "MaximumScore": 10
+                                },
+                                {
+                                    "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                                    "Name": "Abstand vom Zentrum [mm]",
+                                    "ScoreFormat": "HundrethScore",
+                                    "StringValue": "",
+                                    "Value": 3.63574505748519,
+                                    "MaximumScore": 0
+                                }
+                            ],
+                            "RunningTargetMovement": "StandingStill",
+                            "RunningTargetSpeed": "Fast",
+                            "InTime": true,
+                            "ElapsedTime": "45928.18:41:31.9190000"
+                        }
+                    ],
+                    "Totals": [
+                        131,
+                        193.946048466342
+                    ],
+                    "DisplayTotalStrings": [
+                        "131",
+                        "193.95"
+                    ],
+                    "FireKind": 1,
+                    "ShowIndex": -1,
+                    "TargetIdent": 61,
+                    "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                    "ParameterResults": [
+                        {
+                            "Teilers": [
+                                0.0027682663012250103,
+                                0.003445680301979567,
+                                0.0036357450574851916
+                            ],
+                            "ParameterResultType": "Bester Teiler",
+                            "ResultValid": false,
+                            "ResultDataType": "Artemis.ComponentLibrary.Common.Models.ParameterResults.ParameterResultBestTeiler, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null",
+                            "ProductVersion": "2025.2.1"
+                        }
+                    ],
+                    "InfoLayerContributorMetaDataList": []
+                }
+            ],
+            "Totals": [
+                131,
+                193.946048466342
+            ],
+            "DisplayTotalStrings": [
+                "131",
+                "193.95"
+            ],
+            "ParameterResults": []
+        }
+    ],
+    "NrOfInnerTens": 0,
+    "ParameterResults": [
+        {
+            "Teilers": [
+                0.0027682663012250103,
+                0.003445680301979567,
+                0.0036357450574851916
+            ],
+            "ParameterResultType": "Bester Teiler",
+            "ResultValid": false,
+            "ResultDataType": "Artemis.ComponentLibrary.Common.Models.ParameterResults.ParameterResultBestTeiler, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null",
+            "ProductVersion": "2025.2.1"
+        }
+    ],
+    "IsLegacy": false,
+    "LegacyFirerInformation": {
+        "FirerId": 0,
+        "DisplayName": null,
+        "DisplayNation": null
+    },
+    "LegacyShootLogEventStartTime": "0001-01-01T01:00:00+01:00",
+    "Id": "6f5694cb-c176-4f0a-843e-c7449df03699",
+    "UserSessionInformation": {
+        "SessionId": "b1fdf856-198f-454f-a927-ca777e231fcc",
+        "ShootingSportsCloudSession": false,
+        "UserData": {
+            "ShootingSportsCloudId": "00000000-0000-0000-0000-000000000000",
+            "MemberId": "170095",
+            "OrganizationId": "1ae6bbf1-c3a2-4b49-8731-cce3fab54b62",
+            "IsDefaultUser": false,
+            "UserPreferredLanguage": "",
+            "UserDisplayId": "170095",
+            "Team": "",
+            "Name": "Rochlitz",
+            "FirstName": "Fabian",
+            "DisplayName": "ROCHLITZ Fabian",
+            "Club": "",
+            "Class": "",
+            "UserGroup": "Herrenzug",
+            "Organization": "BSC Isenbüttel von 1852 e.V.",
+            "OrganizationCode": "",
+            "OrganizationPicture": "12f5d642-657e-4bb6-b89d-a3c9a13e1b77",
+            "NationISO": "DEU",
+            "NationIOC": "GER",
+            "Age": null,
+            "Gender": null,
+            "GenderTranslated": null,
+            "DateOfBirth": null,
+            "DisplayNation": "GER"
+        }
+    },
+    "Serial": 3,
+    "RangeId": "",
+    "RangeName": "",
+    "LanguageIdentifier": "de",
+    "TimeZone": "Europe/Berlin",
+    "ExerciseAssignmentId": "59ce04db-a7cd-42e6-86ce-1ba60c25b156",
+    "Suspendable": true,
+    "ExerciseStart": "2025-09-30T20:41:02.072+02:00",
+    "Rank": 0,
+    "NrOfCompetitionShots": 20,
+    "ExerciseEmpty": false,
+    "ExerciseProgress": "Finished",
+    "ExerciseSpecialEvents": [
+        {
+            "AdditionalShot": {
+                "Id": "332bfbf7-1b79-9308-74b0-c55bbc7abd04",
+                "TimeStamp": "2025-09-30T20:41:38.79+02:00",
+                "Demo": true,
+                "Scores": [
+                    "8!",
+                    "5.34"
+                ],
+                "ShotNumber": -1,
+                "DirectionArrow": "↗",
+                "XCoordinateInM": 0.004697735,
+                "YCoordinateInM": 0.002541152,
+                "RadiusInM": 0.0053409893856222,
+                "PhiInRad": 0.4958540427399349,
+                "Visible": true,
+                "CaliberInM": 0.0045,
+                "FiringDistanceInM": "NaN",
+                "Drawable": true,
+                "VisualGroup": -1,
+                "TargetIdent": 61,
+                "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                "Position": "10m",
+                "FrameHit": false,
+                "InnerTen": false,
+                "Miss": false,
+                "Velocity": 700,
+                "Ricochet": false,
+                "SystemCreated": false,
+                "FireKind": "ShotByShot",
+                "ScoreObjects": [
+                    {
+                        "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                        "Name": "10m Air Rifle Integer",
+                        "ScoreFormat": "IntegerScore",
+                        "StringValue": "",
+                        "Value": 8,
+                        "MaximumScore": 10
+                    },
+                    {
+                        "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                        "Name": "Abstand vom Zentrum [mm]",
+                        "ScoreFormat": "HundrethScore",
+                        "StringValue": "",
+                        "Value": 5.3409893856222,
+                        "MaximumScore": 0
+                    }
+                ],
+                "RunningTargetMovement": "StandingStill",
+                "RunningTargetSpeed": "Fast",
+                "InTime": true,
+                "ElapsedTime": "45928.18:41:38.7900000"
+            },
+            "Id": "e2b4df0e-11ea-4cc6-b1e6-d88077fa0023",
+            "CreatedAt": "2025-09-30T20:41:38.9600291+02:00",
+            "Title": "i18n.ExerciseSpecialEvent.AdditionalShotRecorded",
+            "Description": "Additional shot after end of exercise detected!",
+            "ResultDataType": "Artemis.ComponentLibrary.Common.Models.ExerciseSpecialEvents.AdditionalShotRecordedEvent, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null",
+            "ProductVersion": "2025.2.1"
+        },
+        {
+            "AdditionalShot": {
+                "Id": "91b2a9f1-3330-52a2-5d61-2217616c0772",
+                "TimeStamp": "2025-09-30T20:41:46.132+02:00",
+                "Demo": true,
+                "Scores": [
+                    "4!",
+                    "15.18"
+                ],
+                "ShotNumber": -1,
+                "DirectionArrow": "→",
+                "XCoordinateInM": 0.015176849,
+                "YCoordinateInM": 0.000128976,
+                "RadiusInM": 0.015177397022459977,
+                "PhiInRad": 0.008498002139511652,
+                "Visible": true,
+                "CaliberInM": 0.0045,
+                "FiringDistanceInM": "NaN",
+                "Drawable": true,
+                "VisualGroup": -1,
+                "TargetIdent": 61,
+                "TargetPictureId": "d172e141-ddde-41cc-ad03-d7ea17491908",
+                "Position": "10m",
+                "FrameHit": false,
+                "InnerTen": false,
+                "Miss": false,
+                "Velocity": 700,
+                "Ricochet": false,
+                "SystemCreated": false,
+                "FireKind": "ShotByShot",
+                "ScoreObjects": [
+                    {
+                        "ScoreMethodId": "ffcc12af-946a-417d-a022-8dc8f6e63224",
+                        "Name": "10m Air Rifle Integer",
+                        "ScoreFormat": "IntegerScore",
+                        "StringValue": "",
+                        "Value": 4,
+                        "MaximumScore": 10
+                    },
+                    {
+                        "ScoreMethodId": "608a7814-3162-4c4c-9292-3f7ee488bc09",
+                        "Name": "Abstand vom Zentrum [mm]",
+                        "ScoreFormat": "HundrethScore",
+                        "StringValue": "",
+                        "Value": 15.17739702246,
+                        "MaximumScore": 0
+                    }
+                ],
+                "RunningTargetMovement": "StandingStill",
+                "RunningTargetSpeed": "Fast",
+                "InTime": true,
+                "ElapsedTime": "45928.18:41:46.1320000"
+            },
+            "Id": "5b6ec43f-39d0-4312-b5ba-307ee2c133bf",
+            "CreatedAt": "2025-09-30T20:41:46.228154+02:00",
+            "Title": "i18n.ExerciseSpecialEvent.AdditionalShotRecorded",
+            "Description": "Additional shot after end of exercise detected!",
+            "ResultDataType": "Artemis.ComponentLibrary.Common.Models.ExerciseSpecialEvents.AdditionalShotRecordedEvent, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null",
+            "ProductVersion": "2025.2.1"
+        }
+    ],
+    "CurrentExerciseState": "IsFinished",
+    "FiringPoint": 4,
+    "ExerciseName": "Preisschiessen",
+    "TotalString": "131",
+    "FaceSelector": "LiveCompetitionResultsView",
+    "TimerViewData": {
+        "State": 0,
+        "StartTime": "0001-01-01T01:00:00+01:00",
+        "TotalTimeInS": 0
+    },
+    "FaceSpecificData": "{\"ScoreBoxLayout\":\"GroupCollectionExercise\",\"ScoreBoxData\":\"{\\u0022$type\\u0022:1,\\u0022GroupsProgress\\u0022:{\\u0022ActiveGroupIndex\\u0022:0,\\u0022Progress\\u0022:1,\\u0022Groups\\u0022:[\\u0022131\\u0022]},\\u0022GroupsTotalData\\u0022:[{\\u0022Index\\u0022:0,\\u0022Caption\\u0022:\\u0022Schuss f\\\\u00FCr Schuss: 20\\u0022,\\u0022CaptionAbbreviation\\u0022:\\u0022E20\\u0022,\\u0022Total\\u0022:\\u0022131\\u0022,\\u0022State\\u0022:\\u0022Finished\\u0022}],\\u0022ShotListDescriptor\\u0022:{\\u0022NumberOfPreferredShotsInShotList\\u0022:10,\\u0022AvailableScores\\u0022:[{\\u0022ValueName\\u0022:\\u002210m Air Rifle Integer\\u0022,\\u0022Alignment\\u0022:1,\\u0022ValueFormatterClass\\u0022:\\u0022ShotScoreFormatter\\u0022,\\u0022SelectionIndex\\u0022:0},{\\u0022ValueName\\u0022:\\u0022Abstand vom Zentrum [mm]\\u0022,\\u0022Alignment\\u0022:1,\\u0022ValueFormatterClass\\u0022:\\u0022ShotScoreFormatter\\u0022,\\u0022SelectionIndex\\u0022:1},{\\u0022ValueName\\u0022:\\u0022x/y[mm]\\u0022,\\u0022Alignment\\u0022:1,\\u0022ValueFormatterClass\\u0022:\\u0022ShotXYFormatterInMM\\u0022,\\u0022SelectionIndex\\u0022:0}],\\u0022PreferredOptionalColumnValueIndex\\u0022:-1}}\"}",
+    "WeaponId": "00000000-0000-0000-0000-000000000000",
+    "WeaponName": "",
+    "Comment": "",
+    "UserSpecificData": {
+        "WeaponNumber": "",
+        "AmmunitionLot": ""
+    },
+    "PreExerciseStepResults": {},
+    "PostExerciseStepResults": {},
+    "LastProcessedExerciseStepsList": "",
+    "LastProcessedExerciseStepsIndex": -1,
+    "PrintStreamData": "Target 4                           Target 4                        C\n30.09.2025 20:41                   30.09.2025 20:41                C\n170095 ROCHLITZ Fabian GER         170095 ROCHLITZ Fabian GER      C\nPreisschiessen                     Preisschiessen                  C\n  1  ↗   5 !  14.29                  1  ↗   5 !  14.29             C\n  2  ←   5 !  13.29                  2  ←   5 !  13.29             C\n  3  ↙   9 !  4.21                   3  ↙   9 !  4.21              C\n  4  ↘   4 !  17.23                  4  ↘   4 !  17.23             C\n  5  ↘   9 !  5.00                   5  ↘   9 !  5.00              C\n  6  ↑   3 !  18.53                  6  ↑   3 !  18.53             C\n  7  ←   9 !  3.45                   7  ←   9 !  3.45              C\n  8  ←   9 !  2.77                   8  ←   9 !  2.77              C\n  9  ↑   4 !  15.60                  9  ↑   4 !  15.60             C\n 10  →   8 !  6.34                  10  →   8 !  6.34              C\n 11  ↑   4 !  16.92                 11  ↑   4 !  16.92             C\n 12  ↙   9 !  4.08                  12  ↙   9 !  4.08              C\n 13  ↓   6 !  10.09                 13  ↓   6 !  10.09             C\n 14  ↘   7 !  8.39                  14  ↘   7 !  8.39              C\n 15  ↖   6 !  10.16                 15  ↖   6 !  10.16             C\n 16  ↑   7 !  7.91                  16  ↑   7 !  7.91              C\n 17  ↑   4 !  15.01                 17  ↑   4 !  15.01             C\n 18  ←   7 !  7.61                  18  ←   7 !  7.61              C\n 19  ↘   7 !  9.45                  19  ↘   7 !  9.45              C\n 20  →   9 !  3.64                  20  →   9 !  3.64              C\nSubtotal:  131 193.95              Subtotal:  131 193.95           C\nTOTAL 131 193.95                   TOTAL 131 193.95                C\n\n\n\n\n\n\n\n\n\n\nIllegal Shot(8!)                   Illegal Shot(8!)                C\nIllegal Shot(4!)                   Illegal Shot(4!)                C\n",
+    "BackupDataString": "",
+    "ComponentDefinitionId": "eaea1ca6-17a8-8266-ea5a-445d47e8d302",
+    "ResultDataType": "Artemis.ComponentLibrary.Common.Models.ExerciseResults.ShootPracticeGroup.ShootPracticeGroupExerciseResultData, Artemis.ComponentLibrary.Common, Version=2025.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "ProductVersion": "2025.2.1"
+}
