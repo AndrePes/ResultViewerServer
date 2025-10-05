@@ -1,0 +1,13 @@
+@echo off
+REM Start backend server...
+echo Starting first Node.js application...
+start "ResultViewerServer" cmd /k node "\ResultViewerServer\src\main.js"
+
+REM Wait two seconds to ensure the first app starts properly
+timeout /t 2 /nobreak >nul
+
+REM Start frontend application...
+echo Starting second Node.js application...
+start "ResultViewer" cmd /k npm run dev "\ResultViewerServer\"
+
+echo Both applications have been started.
