@@ -11,11 +11,8 @@ const port = 1337
 const localDir = process.env.LOCAL_DIR || './src/data';
 console.log(`Using directory: ${localDir}`);
 
-
-
 // Array to hold parsed data
 var data = [];
-
 
 //Set CORS headers to allow requests from the frontend application.
 app.use((req, res, next) => {
@@ -26,6 +23,9 @@ app.use((req, res, next) => {
   next();
 });
 
+/* 
+* Reads all directories from the local directory.
+*/
 function getDirectories() {
     console.log(`Reading directories from: ${localDir}`);
     return fs.readdirSync(localDir)
@@ -77,9 +77,9 @@ const readFiles = () => {
     return aData;    
 }
 
-readFiles();
-
-
+/*
+* Groups the parsed data by member ID.
+*/
 const groupById = (rawData) => {
     return rawData.reduce((acc, result) => {
         const memberId = result?.id;
@@ -90,6 +90,9 @@ const groupById = (rawData) => {
     }, {});
 }
 
+/* 
+* Groups the parsed data by date.
+*/
 const groupByDate = (rawData) => {
     return rawData.reduce((acc, result) => {
         const date = result?.date;
@@ -114,10 +117,16 @@ app.get('/api/raw', (req, res) => {
   res.send(readFiles())
 })
 
+/*
+* API endpoint to get the data grouped by member ID.
+*/
 app.get('/api/groupById', (req, res) => {
   res.send(groupById(readFiles()))
 })
 
+/*
+* API endpoint to get the data grouped by date.
+*/
 app.get('/api/groupByDate', (req, res) => {
   res.send(groupByDate(readFiles()))
 })
