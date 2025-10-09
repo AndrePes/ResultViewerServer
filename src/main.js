@@ -47,7 +47,7 @@ const readFiles = () => {
       console.log(`Reading directory: ${dir}`);
       
       //Read all files in the directory and filter for .json files
-      const sPath = path.join(dir, 'Reports', 'raw');
+      const sPath = path.join(dir, 'Exercise', 'raw');
 
       if (!fs.existsSync(sPath)) {
         console.warn(`Directory does not exist: ${sPath}`);
